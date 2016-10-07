@@ -1,14 +1,14 @@
 
-The Tiger
+#The Tiger
 By William Blake
 
-Tiger, tiger, burning bright
+*Tiger*, tiger, burning bright
 In the forests of the night,
 What immortal hand or eye
 Could frame thy fearful symmetry?
 
-In what distant deeps or skies
-Burnt the fire of thine eyes?
+In what distant deeps or _skies_
+Burnt the fire of thine _eyes_?
 On what wings dare he aspire?
 What the hand dare seize the fire?
 
@@ -32,4 +32,4 @@ In the forests of the night,
 What immortal hand or eye
 Dare frame thy fearful symmetry?
     
-http://www.public-domain-poetry.com/william-blake/tiger-9207
+[Public Doman Poetry] (http://www.public-domain-poetry.com/william-blake/tiger-9207)

@@ -4,8 +4,8 @@
 
 By William Blake
 
-*Tiger*, tiger, burning bright<br>
-In the forests of the night,<br>
+*Tiger*, tiger, burning _bright_<br>
+In the forests of the _night_,<br>
 What immortal hand or eye<br>
 Could frame thy fearful symmetry?<br>
 

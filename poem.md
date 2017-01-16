@@ -1,16 +1,15 @@
 
-#The Tiger
-:tiger:
+The Tiger
 
 By William Blake
 
-*Tiger*, tiger, burning _bright_<br>
-In the forests of the _night_,<br>
+Tiger, tiger, burning bright<br>
+In the forests of the night,<br>
 What immortal hand or eye<br>
 Could frame thy fearful symmetry?<br>
 
-In what distant deeps or _skies_<br>
-Burnt the fire of thine _eyes_?<br>
+In what distant deeps or skies<br>
+Burnt the fire of thine eyes?<br>
 On what wings dare he aspire?<br>
 What the hand dare seize the fire?<br>
 
@@ -29,9 +28,9 @@ And watered heaven with their tears,<br>
 Did He smile His work to see?<br>
 Did He who made the lamb make thee?<br>
 
-Tiger, tiger, burning bright<br>
-In the forests of the night,<br>
-What immortal hand or eye<br>
-Dare frame thy fearful symmetry?<br>
+Tiger, tiger, burning bright
+In the forests of the night,
+What immortal hand or eye
+Dare frame thy fearful symmetry?
     
 [Public Doman Poetry](http://www.public-domain-poetry.com/:-blake/tiger-9207)

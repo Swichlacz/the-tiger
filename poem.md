@@ -1,16 +1,16 @@
 
-#The Tiger
-:tiger:
+The Tiger
+
 
 By William Blake
 
-Tiger, tiger, burning _bright_<br>
-In the forests of the _night_,<br>
+Tiger, tiger, burning bright<br>
+In the forests of the night,<br>
 What immortal hand or eye<br>
 Could frame thy fearful symmetry?<br>
 
-In what distant deeps or _skies_<br>
-Burnt the fire of thine _eyes_?<br>
+In what distant deeps or skies<br>
+Burnt the fire of thine eyes?<br>
 On what wings dare he aspire?<br>
 What the hand dare seize the fire?<br>
 

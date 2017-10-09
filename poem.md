@@ -1,6 +1,5 @@
 
-# The Tiger
-:tiger:
+The Tiger
 
 By William Blake
 

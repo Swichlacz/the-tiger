@@ -1,5 +1,6 @@
 
-The Tiger
+# The Tiger
+:tiger:
 
 By William Blake
 
@@ -9,12 +10,12 @@ What immortal hand or eye<br>
 Could frame thy fearful symmetry?<br>
 
 In what distant deeps or _skies_<br>
-Burnt the fire of thine _eyes_?<br>
+Burnt the fire of thine _eyes?_<br>
 On what wings dare he aspire?<br>
 What the hand dare seize the fire?<br>
 
-And what shoulder and what art<br>
-Could twist the sinews of thy heart?<br>
+And what shoulder and what _art_<br>
+Could twist the sinews of thy _heart?_<br>
 And, when thy heart began to beat,<br>
 What dread hand and what dread feet?<br>
 

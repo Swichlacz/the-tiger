@@ -1,10 +1,11 @@
 
-The Tiger
+# The Tiger
+:tiger:
 
 By William Blake
 
-Tiger, tiger, burning bright<br>
-In the forests of the night,<br>
+Tiger, tiger, burning _bright_<br>
+In the forests of the _night_,<br>
 What immortal hand or eye<br>
 Could frame thy fearful symmetry?<br>
 
@@ -28,9 +29,9 @@ And watered heaven with their tears,<br>
 Did He smile His work to see?<br>
 Did He who made the lamb make thee?<br>
 
-Tiger, tiger, burning bright
-In the forests of the night,
-What immortal hand or eye
-Dare frame thy fearful symmetry?
+Tiger, tiger, burning bright<br>
+In the forests of the night,<br>
+What immortal hand or eye<br>
+Dare frame thy fearful symmetry?<br>
     
 [Public Doman Poetry](http://www.public-domain-poetry.com/:-blake/tiger-9207)

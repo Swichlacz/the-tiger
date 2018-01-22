@@ -1,6 +1,5 @@
 
-# The Tiger
-:tiger:
+The Tiger
 
 By William Blake
 
@@ -29,9 +28,9 @@ And watered heaven with their tears,<br>
 Did He smile His work to see?<br>
 Did He who made the lamb make thee?<br>
 
-Tiger, tiger, burning bright<br>
-In the forests of the night,<br>
-What immortal hand or eye<br>
-Dare frame thy fearful symmetry?<br>
+Tiger, tiger, burning bright
+In the forests of the night,
+What immortal hand or eye
+Dare frame thy fearful symmetry?
     
 [Public Doman Poetry](http://www.public-domain-poetry.com/:-blake/tiger-9207)

@@ -1,21 +1,20 @@
 
-# The Tiger
-:tiger:
+The Tiger
 
 By William Blake
 
-Tiger, tiger, burning _bright_<br>
-In the forests of the _night_,<br>
-What immortal hand or eye<br>
-Could frame thy fearful symmetry?<br>
+Tiger, tiger, burning bright
+In the forests of the night,
+What immortal hand or eye
+Could frame thy fearful symmetry?
 
-In what distant deeps or _skies_<br>
-Burnt the fire of thine _eyes?_<br>
+In what distant deeps or skies<br>
+Burnt the fire of thine eyes?<br>
 On what wings dare he aspire?<br>
 What the hand dare seize the fire?<br>
 
-And what shoulder and what _art_<br>
-Could twist the sinews of thy _heart?_<br>
+And what shoulder and what art<br>
+Could twist the sinews of thy heart?<br>
 And, when thy heart began to beat,<br>
 What dread hand and what dread feet?<br>
 
